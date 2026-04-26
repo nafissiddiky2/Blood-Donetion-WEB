@@ -130,27 +130,10 @@ Enter name, blood type, or phone number
 View search results for both donors and patients
 
 ***📁 File Structure***
-...
-Blood_Org/
-│
-├── config/
-│   └── database.php          # Database configuration
-│
-├── css/
-│   └── style.css              # Styling (optional)
-│
-├── index.php                  # Homepage/Dashboard
-├── donors.php                 # Donors list
-├── patients.php               # Patients list
-├── add_donor.php              # Add new donor form
-├── add_patient.php            # Add new patient form
-├── search.php                 # Search functionality
-├── match_blood.php            # Blood matching system
-│
-└── README.md                  # Project documentation
-...
+<img width="554" height="489" alt="image" src="https://github.com/user-attachments/assets/f28bd4d1-fd83-46f9-8cd6-ca238a61a80a" />
 
-***📸 Screenshots***
+
+**📸 Screenshots**
 **Homepage Dashboard**
 <img width="1046" height="866" alt="image" src="https://github.com/user-attachments/assets/546a7023-aba7-4ab5-b1f6-5cbde815d388" />
 **Donors List**
