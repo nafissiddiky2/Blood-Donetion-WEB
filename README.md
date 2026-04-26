@@ -185,10 +185,11 @@ Comment complex logic
 Test before submitting
 
 **📞 Contact**
-Saad Al Nafis Siddiky
+
+**Saad Al Nafis Siddiky**
 
 Email:nafissiddiky2@gmail.com
 
-GitHub: @nafissiddiky2
+GitHub: [@nafissiddiky2](https://github.com/nafissiddiky2)
 
 LinkedIn: [Saad Al Nafis Siddiky](www.linkedin.com/in/nafis-siddiky)
