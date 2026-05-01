@@ -2,6 +2,12 @@
 
 A web-based database management system for blood donation organizations to manage donors, patients, and blood matching efficiently.
 
+![Blood Donetion WEB](https://img.shields.io/badge/Blood_Donetion_Org-red.svg)
+![PHP](https://img.shields.io/badge/PHP-green.svg)
+![MySQL](https://img.shields.io/badge/MySQL-5.7+-orange.svg)
+![HTML5](https://img.shields.io/badge/HTML-5-purple.svg)
+![CSS3](https://img.shields.io/badge/CSS-3-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## 📋 Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
